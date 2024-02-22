@@ -5,12 +5,14 @@ body{
 
  p {
     color: white;
-	text-align: center;
+	text-align: left;
     font-size: 24px;
+    font: arial;
 }
 
 h1 {
      color: white;
-     border: solid black;
+     border: solid white;
 	 text-align: left;
+     font: arial;
 }
